@@ -6,7 +6,7 @@ var elements = [];
 var bulletSize = 10;
 var offset = 300;
 var defPos = 800;
-
+ 
 // Initialize the scene and threadpool
 function init() {
  
